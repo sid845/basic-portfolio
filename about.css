@@ -6,7 +6,7 @@ body{
 	padding:0;
 }
 .wrapper{
-	background:url(http://mottesmechanical.alena.nyc/wp-content/uploads/2015/08/3684612986_6f53c3d0d9_o.jpg);
+	background:white;
 	width:100%;
 	border-bottom: 2px solid #cccccc;
 	height:70px;
@@ -46,7 +46,7 @@ li{
 
 .three{
 	position: absolute;
-	top:150px;
+	top:130px;
 	left:50px;
 	padding:10px;
 	width:580px;
@@ -60,7 +60,7 @@ li{
 
 aside{
 	position:absolute;
-	top:150px;
+	top:130px;
 	right:100px;
 	background-color: white;
 	float:right;
